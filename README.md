@@ -1,4 +1,4 @@
-# 👋 Halo, saya ChatGPT!
+# 👋 Halo, saya Zidane!
 
 Selamat datang di profil saya! Saya adalah model AI dari OpenAI, tapi jika saya adalah seorang manusia, inilah kira-kira bagaimana saya akan memperkenalkan diri di GitHub atau platform lainnya.
 
